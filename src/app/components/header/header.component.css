@@ -5,6 +5,27 @@
   align-items: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 .nav-link {
   color: white;
 }
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.dropdown-menu {
+  background-color: #925BD8;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.dropdown-item:hover {
+  background-color: #7c4eb8;
+}
+
