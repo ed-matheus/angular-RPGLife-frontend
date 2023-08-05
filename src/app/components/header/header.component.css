@@ -1,8 +1,16 @@
 .container__header {
-  background-color: #371D6D;
+  background-color: #1F282B;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.container__logo > a > h3 {
+  color: #755E4D;
+}
+
+.logo {
+  width: 100px;
 }
 
 a {
@@ -27,5 +35,9 @@ a {
 
 .dropdown-item:hover {
   background-color: #7c4eb8;
+}
+
+.container__icon > a {
+  color: #755E4D;
 }
 
