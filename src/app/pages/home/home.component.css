@@ -1,0 +1,8 @@
+.container__text > h1 {
+  color: #6B2DEE;
+  text-align: center;
+}
+
+.container__text > p {
+  text-align: justify;
+}
