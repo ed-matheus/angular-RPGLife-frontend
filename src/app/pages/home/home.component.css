@@ -1,5 +1,11 @@
+.container__text {
+  /* border: 1px solid red; */
+  position: relative;
+  bottom: 1300px;
+}
+
 .container__text > h1 {
-  color: #6B2DEE;
+  color: white;
   text-align: center;
 }
 
