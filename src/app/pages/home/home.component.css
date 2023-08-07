@@ -3,6 +3,11 @@
   height: 719px;
 }
 
+.container__text {
+  background-color: rgba(31, 40, 43, 0.9);
+  border-radius: 10px;
+}
+
 .container__text > h1 {
   color: #755E4D;
 }
