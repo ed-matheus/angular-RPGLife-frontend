@@ -6,7 +6,3 @@
 .container__footer {
   height: 80px;
 }
-
-.container__footer > p {
-  font-family: 'Times New Roman', Times, serif;
-}
