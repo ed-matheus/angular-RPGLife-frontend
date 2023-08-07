@@ -1,1 +1,12 @@
+.container__footer {
+  /* border: 1px solid orange; */
+  background-color: #1F282B;
+}
 
+.container__footer {
+  height: 80px;
+}
+
+.container__footer > p {
+  font-family: 'Times New Roman', Times, serif;
+}

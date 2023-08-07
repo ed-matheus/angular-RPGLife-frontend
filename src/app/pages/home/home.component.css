@@ -1,14 +1,8 @@
-.container__text {
-  /* border: 1px solid red; */
-  position: relative;
-  bottom: 1300px;
+.container__homepage {
+  background: url(../../../assets/img/background-image.png) no-repeat fixed center;
+  height: 719px;
 }
 
 .container__text > h1 {
-  color: white;
-  text-align: center;
-}
-
-.container__text > p {
-  text-align: justify;
+  color: #755E4D;
 }
