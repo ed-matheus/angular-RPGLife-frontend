@@ -1,7 +1,7 @@
 <div class="container__header px-5 py-3">
 
   <div class="row container__logo">
-    <a href="#" class="d-flex align-items-center">
+    <a [routerLink]="['']" class="d-flex align-items-center">
       <img class="logo img-fluid me-2" src="../../../assets/img/logo.png" alt="RPG Logo">
       <h3 class="fs-3 fw-bold">RPG Life</h3>
     </a>
@@ -19,7 +19,7 @@
 
         <ul class="navbar-nav mr-auto">
           <li class="nav-item me-5 fs-6">
-            <a class="nav-link" aria-current="page" href="#">Home</a>
+            <a class="nav-link" aria-current="page" [routerLink]="['']">Home</a>
           </li>
 
           <li class="nav-item me-5 fs-6">
